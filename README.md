@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-ardientes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Latidos ardientes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-ardientes/) |
+| **Get License** | [Obtain a Music License for Latidos ardientes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-ardientes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5b86b476a6688a00d1e5d271a4d6b09638ecb8dfddf12fdd06018cc3fb73f44c` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

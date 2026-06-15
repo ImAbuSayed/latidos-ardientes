@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latidos ardientes
+
+This log tracks the cryptographic history and versioning for the song **Latidos ardientes** (latidos-ardientes).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T22:56:49.353710 | `v1` | `5b86b476a6688a00d1e5d271a4d6b09638ecb8dfddf12fdd06018cc3fb73f44c` | `12bd087dc0cb7acf2d170080971192e44e0d8cc150efd4437c8519ca813ddbf0` | `2026-06-15_latidos-ardientes-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
