@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-ardientes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Latidos ardientes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-ardientes/) |
+| **Get License** | [Get License For Latidos ardientes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-ardientes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche pide que te acerques más
+> Con ese flow de España que me hace suspirar
+> You know what's up, mi instinto no sabe fallar
+> Dame un beso lento, ready pa' volar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
